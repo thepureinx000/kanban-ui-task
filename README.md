@@ -1,8 +1,9 @@
-## Get Started
+## GET STARTED
 
 
 ```
 npm i
+```
 ```
 npm start
 ```
